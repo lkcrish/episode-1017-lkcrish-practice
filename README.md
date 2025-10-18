@@ -2,9 +2,9 @@
 
 Here is me practicing markdown language
 
-#title
-##heading 2
-###heading 3
+# title
+## heading 2
+### heading 3
 
 I can **bold** text, _italicize_, ***bold and italicize***, and more!
 
